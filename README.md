@@ -1,10 +1,10 @@
-#Tailwind
+### Tailwind:
 
 
-#installations of tailwind css
+### installations of tailwind css:
 https://tailwindcss.com/docs/guides/vite
 
-#to overwrite the css
+### to overwrite the css:
 https://v2.tailwindcss.com/docs/guides/create-react-app
 
 
